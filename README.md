@@ -8,7 +8,7 @@ We finished the project by adding colors to underline even more the results.
 
 
 
-Developers: Andrea Stefani, Ion Cociu.
-Studying at: Liceo M. Fanti, Italy, Carpi (MO)
+ Developers:  Andrea Stefani, Ion Cociu.
+ Studying at: Liceo M. Fanti, Italy, Carpi (MO)
 
-We appreciate any idea to improve the code, take some time to review it!
+ We appreciate any idea to improve the code, take some time to review it!
